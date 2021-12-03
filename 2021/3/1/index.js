@@ -59,7 +59,7 @@
 }
 
 function getInput() {
-    /*
+    
     //test data
     return `00100
     11110
@@ -72,7 +72,7 @@ function getInput() {
     10000
     11001
     00010
-    01010`;*/
+    01010`;
     return `
         010001110001
         110100000001
